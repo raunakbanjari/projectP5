@@ -1,0 +1,19 @@
+body{
+    background-color: chocolate;
+}
+.btn-primary{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: aqua; 
+}
+.btn{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 75px;
+    color: aquamarine;
+}
+canvas{
+    border: 5px solid black;
+}
+.btn-success{
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
